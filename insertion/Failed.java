@@ -39,5 +39,8 @@ public class Failed {
 		}
 		
 	}
+	static void name () {
+		System.out.println("Change made");
+	}
 
 }
